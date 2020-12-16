@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>projektreble</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -79,16 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Recharger
+                    ProjekTreble - Your Prepaid Credit Personal Manager.
                 </div>
-
-                {{-- <div class="links">
-                    <a href="#">Documentation</a>
-                    <a href="#">Laracasts</a>
-                    <a href="#">News</a>
-                    <a href="#">Forge</a>
-                    <a href="#">GitHub</a>
-                </div> --}}
             </div>
         </div>
     </body>
